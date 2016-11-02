@@ -1,0 +1,34 @@
+**********Hướng dẫn ghép CBReader(Ký hiệu X) vào một project sẵn có (Ký hiệu Y).
+
+Bước 1: Copy toàn bộ thư mục "app/libs" trong X vào thư mục libs trong Y.
+Bước 2: Copy toàn bộ thư mục code "app/src/main/java/com" và thư mục "app/src/main/java/org" trong X vào trong thư mục code của Y. Chú ý thư mục "com" và "org" trong Y phải nằm ngay sau thư mục "java" vì còn liên quan tới code native(file thư viện .so)
+Bước 3: Copy toàn bộ thư mục "app/src/main/res" trong X vào thư mục "app/src/main/res" trong Y.
+Bước 4: Chỉnh sửa file build.gradle (Xem trong X để biết chi tiết)
+ - Thêm vào phần android{}
+	sourceSets.main {
+        	jniLibs.srcDir 'libs'
+	}
+    	useLibrary 'org.apache.http.legacy'
+  - Thêm vào dependencies{}
+	compile 'jcifs:jcifs:1.3.17'
+	compile 'com.android.support:support-v4:25.0.0'
+	compile 'com.android.support:design:25.0.0'
+	androidTestCompile 'org.hamcrest:hamcrest-library:1.3'
+	androidTestCompile 'com.android.support:support-annotations:25.0.0'
+	androidTestCompile 'com.android.support.test:runner:0.5'
+	androidTestCompile 'commons-io:commons-io:2.5'
+Bước 5: Vì copy code kiểu này nên việc file R import sai là không thể tránh khỏi(trừ trường hợp package name X giống với Y), vì thế sẽ báo lỗi ở các 
+file sử dụng file R. Dùng công cụ replace của Android studio replace toàn bộ "import nb.cblink.readbook.R;" thành "import <package_name_Y>.R;" 
+
+Bước 6: Khai báo Activity để hiển thị nội dung một tài liệu: "org.ebookdroid.ui.viewer.ViewerActivity" trong file AndroidManifest.xml (Xem trong X để biết chi tiết)
+
+**********Hướng dẫn cách hiển thị nội dung tài liệu.
+Đơn giản chỉ cần bắn Intent truyền vào tên file và startActivity đó lên (Xem trong file MainActivity.class để biết chi tiết):
+
+	Intent intent = new Intent(Intent.ACTION_VIEW, Uri.fromFile(file));
+        intent.setClass(MainActivity.this, ViewerActivity.class);
+        startActivity(intent);
+
+Chú ý nếu muốn lúc khởi chạy việc hiển thị tài liệu tới một trang chỉ định thì chỉ cần thêm tham số vào intent: intent.putExtra("pageIndex", "" + 10);
+
+ 
