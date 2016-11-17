@@ -37,9 +37,15 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
                 File file = listFiles[i];
-                final Intent intent = new Intent(Intent.ACTION_VIEW, Uri.fromFile(file));
-                intent.setClass(MainActivity.this, ViewerActivity.class);
-                startActivity(intent);
+                if(file.getName().endsWith(".epub")){
+                    Intent intentEpub = new Intent(MainActivity.this, EpubShow.class);
+                    intentEpub.putExtra("filePath", file.getAbsolutePath());
+                    startActivity(intentEpub);
+                }else {
+                    final Intent intent = new Intent(Intent.ACTION_VIEW, Uri.fromFile(file));
+                    intent.setClass(MainActivity.this, ViewerActivity.class);
+                    startActivity(intent);
+                }
             }
         });
     }

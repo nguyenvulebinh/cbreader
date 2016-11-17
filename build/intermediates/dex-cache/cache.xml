@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cf9b2eb97c03580c61a485bbb6c6674d002911dc">
+        <dex dex="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_84973b3b8ca55d749eba1fce6ad05323f239b0bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_2dd32bd66a8cdd00c9e4ae273e7d4f18b9242be2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_8233c349ecc7153068d4245242080bdae64a5412/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_2dd32bd66a8cdd00c9e4ae273e7d4f18b9242be2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_ab126456e440a6b8632eab45a984491b38333788/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9445213a1114c18126c13c35aca13243fb23c8a1">
+        <dex dex="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_51b955c8c93ece1189c774076522926d1ccd1799/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_ab126456e440a6b8632eab45a984491b38333788.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nguyenbinh/.gradle/caches/modules-2/files-2.1/jcifs/jcifs/1.3.17/60e3805e7bcfe96bf1f1907b821d251cc9d789ec/jcifs-1.3.17.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60e3805e7bcfe96bf1f1907b821d251cc9d789ec">
+        <dex dex="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/transforms/dex/debug/folders/1000/10/jcifs-1.3.17_b01ceba5aa7d9be4deb3ba8890ed2e081a1fde3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_eb7dc3d7fa2ed92af7dcb125b69ee3264b81f600/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_eb7dc3d7fa2ed92af7dcb125b69ee3264b81f600.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_61eb23f11e1c233d0123312a2b55146bb8ca945a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_61eb23f11e1c233d0123312a2b55146bb8ca945a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.0_48f290b10ae033632ff1fe95d0b2d7f9ace408d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.0_88873103155d38324383576828688fdf07243b06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nguyenbinh/Programming/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_8489946cbfc5bf5ebbde98eafdd9e775566625b2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nguyenbinh/Programming/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_8489946cbfc5bf5ebbde98eafdd9e775566625b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.0_88873103155d38324383576828688fdf07243b06/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_cd0516706f03b36ad604a48d00cf6e7d01f54403.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_497cac5075b6a1314cb319dbb31738ba000e4c12.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_cd0516706f03b36ad604a48d00cf6e7d01f54403/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_497cac5075b6a1314cb319dbb31738ba000e4c12/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_b16827804ab39a512356f9c60697d59885c11ec7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.0_48f290b10ae033632ff1fe95d0b2d7f9ace408d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_b16827804ab39a512356f9c60697d59885c11ec7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_b840d18be448815a380d0b4d7ce0fa41dbd793a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_b840d18be448815a380d0b4d7ce0fa41dbd793a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nguyenbinh/.gradle/caches/modules-2/files-2.1/jcifs/jcifs/1.3.17/60e3805e7bcfe96bf1f1907b821d251cc9d789ec/jcifs-1.3.17.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60e3805e7bcfe96bf1f1907b821d251cc9d789ec">
+        <dex dex="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/pre-dexed/debug/jcifs-1.3.17_b01ceba5aa7d9be4deb3ba8890ed2e081a1fde3d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_b5657a3b480db934228e4b2f41088b536fcc2ae5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_4dde8ff7a9c4f1a09ece56630f51dc99ad85e828/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.0_61b7d0077eb9b05fd5aa158f7d33342a4e34da56/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_8233c349ecc7153068d4245242080bdae64a5412.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_4dde8ff7a9c4f1a09ece56630f51dc99ad85e828.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nguyenbinh/.gradle/caches/modules-2/files-2.1/javax.servlet/servlet-api/2.4/3fc542fe8bb8164e8d3e840fe7403bc0518053c0/servlet-api-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3fc542fe8bb8164e8d3e840fe7403bc0518053c0">
+        <dex dex="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/pre-dexed/debug/servlet-api-2.4_36a0bffd58192d7ba1246cfedfafe3409ae4d501.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_58481b10902d51c0c90f8bb03cf44fd7c1256cec.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_58481b10902d51c0c90f8bb03cf44fd7c1256cec/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.0_61b7d0077eb9b05fd5aa158f7d33342a4e34da56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_7b3febaa655f3e0831b0d877891a1987c9e452e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_b5657a3b480db934228e4b2f41088b536fcc2ae5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nguyenbinh/.gradle/caches/modules-2/files-2.1/javax.servlet/servlet-api/2.4/3fc542fe8bb8164e8d3e840fe7403bc0518053c0/servlet-api-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3fc542fe8bb8164e8d3e840fe7403bc0518053c0">
+        <dex dex="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/transforms/dex/debug/folders/1000/10/servlet-api-2.4_36a0bffd58192d7ba1246cfedfafe3409ae4d501/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_5a5b0003eb4bd6a5b5dfdff5a148784547dbb9b5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_5a5b0003eb4bd6a5b5dfdff5a148784547dbb9b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/nguyenbinh/Programming/Android/AndroidStudioWorkSpace/PetProject/cbreader/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_7b3febaa655f3e0831b0d877891a1987c9e452e1/classes.dex" />
+    </item>
+
+</items>
