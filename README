@@ -1,3 +1,13 @@
+Các loại file hỗ trợ: 
+
+PDF
+DjVu
+EPUB
+XPS (OpenXPS)
+CBZ (Comic Books, no support for rar compressed CBR)
+FictionBook (fb2, fb2.zip)
+
+
 **********Hướng dẫn ghép CBReader(Ký hiệu X) vào một project sẵn có (Ký hiệu Y).
 
 Bước 1: Copy toàn bộ thư mục "app/libs" trong X vào thư mục libs trong Y.
